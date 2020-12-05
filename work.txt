@@ -1,0 +1,4 @@
+SKILLS
+python c++ c 
+git github linux
+algorithm
